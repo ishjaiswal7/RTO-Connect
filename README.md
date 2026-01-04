@@ -14,7 +14,6 @@ A full-stack web application to automate the core services of the Regional Trans
 
 
 
-```markdown
 
 ---
 
@@ -170,4 +169,3 @@ VITE_STRIPE_PUBLISHABLE_KEY=your_stripe_public_key
 Stuti Rajeev @thestutirajeev & Ish Jaiswal @ishjaiswal7
 
 ---
-```
